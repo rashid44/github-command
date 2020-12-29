@@ -10,3 +10,6 @@
 
 ## git pull from master
 * git pull origin master
+
+## push to master branch
+*  git push origin master
