@@ -7,3 +7,6 @@
 * git remote add origin git://remote-github-repo-url.git
 * git checkout -b new-branch-name 
 * git push -u origin new-branch-name
+
+## git pull from master
+* git pull origin master
