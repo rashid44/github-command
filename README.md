@@ -25,3 +25,7 @@
 
 ## push to master branch
 *  git push origin master
+
+## override local branch with master
+* git fetch --all
+* git reset --hard origin/master
